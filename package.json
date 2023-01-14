@@ -12,9 +12,7 @@
     "react-scripts": "5.0.1",
     "react-spinners": "^0.13.7",
     "web-vitals": "^2.1.4",
-    "homepage": "https://nh1106.github.io/weather-app/"
-
-    
+    "homepage": "https://nh1106.github.io/weather-app/"    
   },
   "scripts": {
     "start": "react-scripts start",
